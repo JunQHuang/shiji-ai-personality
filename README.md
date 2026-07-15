@@ -27,23 +27,23 @@
 <td align="center"><b>首页 · 激活码入口</b></td>
 <td align="center"><b>信息填写 · 排盘预览</b></td>
 <td align="center"><b>深度运算中</b></td>
-<td align="center"><b>一对一深度答疑</b></td>
+<td align="center"><b>专属报告 · 六大模块</b></td>
 </tr>
 <tr>
 <td><img width="180" alt="首页" src="https://github.com/user-attachments/assets/465a1a61-bae8-423a-a892-9f309ca3cd6f" /></td>
 <td><img width="180" alt="排盘预览" src="https://github.com/user-attachments/assets/40f4409a-e05e-4f23-aa8d-1979cdf662c9" /></td>
 <td><img width="180" alt="运算中" src="https://github.com/user-attachments/assets/85dca8c7-90f0-4288-8276-e7803ee0dff5" /></td>
-<td><img width="180" alt="答疑" src="https://github.com/user-attachments/assets/831ce038-c0a0-4f11-85b8-04ba8cd3afe4" /></td>
+<td><img width="180" alt="报告" src="https://github.com/user-attachments/assets/cb0ecb65-a582-44be-9906-be450c0847d3" /></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td align="center"><b>专属报告 · 六大模块</b></td>
+<td align="center"><b>一对一深度答疑</b></td>
 <td align="center"><b>技术底稿 · 排盘数据</b></td>
 </tr>
 <tr>
-<td><img width="400" alt="报告" src="https://github.com/user-attachments/assets/cb0ecb65-a582-44be-9906-be450c0847d3" /></td>
+<td><img width="400" alt="答疑" src="https://github.com/user-attachments/assets/831ce038-c0a0-4f11-85b8-04ba8cd3afe4" /></td>
 <td><img width="400" alt="底稿" src="https://github.com/user-attachments/assets/676b7940-87b8-44ef-a8a3-9e32546066d5" /></td>
 </tr>
 </table>
