@@ -27,7 +27,7 @@
 <td align="center"><b>首页 · 激活码入口</b></td>
 <td align="center"><b>信息填写 · 排盘预览</b></td>
 <td align="center"><b>深度运算中</b></td>
-<td align="center"><b>专属报告 · 六大模块</b></td>
+<td align="center"><b>一对一深度答疑</b></td>
 </tr>
 <tr>
 <td><img width="180" alt="首页" src="https://github.com/user-attachments/assets/465a1a61-bae8-423a-a892-9f309ca3cd6f" /></td>
@@ -39,7 +39,7 @@
 
 <table>
 <tr>
-<td align="center"><b>一对一深度答疑</b></td>
+<td align="center"><b>专属报告 · 六大模块</b></td>
 <td align="center"><b>技术底稿 · 排盘数据</b></td>
 </tr>
 <tr>
