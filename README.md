@@ -16,7 +16,7 @@
 
 不是模板拼接，不是星座测试，不是几秒出结果的自动生成——是基于你的精确出生时间，经过完整排盘后，由顶级 AI 逐步推导生成的 **20+ 页专属深度报告**。
 
-> ⚠️ **本项目为商用闭源项目，仅展示产品介绍与界面截图。核心代码（排盘引擎、AI方法论、知识库、Prompt工程）不予公开。**
+> ⚠️ **商用闭源项目。全部代码不予公开，本仓库仅作产品展示。**
 
 ---
 
@@ -33,7 +33,7 @@
 <td><img width="180" alt="首页" src="https://github.com/user-attachments/assets/465a1a61-bae8-423a-a892-9f309ca3cd6f" /></td>
 <td><img width="180" alt="排盘预览" src="https://github.com/user-attachments/assets/40f4409a-e05e-4f23-aa8d-1979cdf662c9" /></td>
 <td><img width="180" alt="运算中" src="https://github.com/user-attachments/assets/85dca8c7-90f0-4288-8276-e7803ee0dff5" /></td>
-<td><img width="180" alt="报告" src="https://github.com/user-attachments/assets/cb0ecb65-a582-44be-9906-be450c0847d3" /></td>
+<td><img width="180" alt="答疑" src="https://github.com/user-attachments/assets/831ce038-c0a0-4f11-85b8-04ba8cd3afe4" /></td>
 </tr>
 </table>
 
@@ -43,14 +43,10 @@
 <td align="center"><b>技术底稿 · 排盘数据</b></td>
 </tr>
 <tr>
-<td><img width="400" alt="答疑" src="https://github.com/user-attachments/assets/831ce038-c0a0-4f11-85b8-04ba8cd3afe4" /></td>
+<td><img width="400" alt="报告" src="https://github.com/user-attachments/assets/cb0ecb65-a582-44be-9906-be450c0847d3" /></td>
 <td><img width="400" alt="底稿" src="https://github.com/user-attachments/assets/676b7940-87b8-44ef-a8a3-9e32546066d5" /></td>
 </tr>
 </table>
-
-<p align="center">
-<img width="360" alt="报告详情" src="https://github.com/user-attachments/assets/caab5ec6-ddec-4ad3-aa09-d8c31a2e63b8" />
-</p>
 
 ---
 
@@ -143,12 +139,11 @@
 | AI 方法论 | 融合三合派·飞星派·四化派精华 · 10万+字方法论 | 🔒 闭源 |
 | 知识库 | 星曜·宫位·四化·格局 · 结构化知识注入 | 🔒 闭源 |
 | Prompt 工程 | 几十版迭代 · 逻辑链推导 · 禁止宿命论用语 | 🔒 闭源 |
-| 前端框架 | Next.js 15 + React 19 + TailwindCSS | - |
-| 视觉风格 | 宣纸水墨 · Canvas 星盘动画 · 玻璃拟态卡片 | - |
-| 后端架构 | API Routes + MongoDB + JWT 鉴权 + SSE 流式 | - |
-| 部署方案 | Netlify Functions · 后台独立运行 · 断点续跑 | - |
+| 前端 | Next.js + React + TailwindCSS · 宣纸水墨视觉 | 🔒 闭源 |
+| 后端 | API Routes + 数据库 + JWT 鉴权 + SSE 流式 | 🔒 闭源 |
+| 部署 | Serverless · 后台独立运行 · 断点续跑 | 🔒 闭源 |
 
-> ⚠️ 核心模块因商用原因闭源，本仓库仅作产品展示用途。
+> ⚠️ 全部代码因商用原因闭源，本仓库仅作产品展示。
 
 ---
 
