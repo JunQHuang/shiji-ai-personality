@@ -50,10 +50,14 @@
 </tr>
 </table>
 
-## 画像卡片 DIY
-
-<img width="1091" height="1061" alt="709f426ea6600df4c6356ad0b7d915b1" src="https://github.com/user-attachments/assets/e8033139-d5d5-4160-aff1-dcce2a5cf6a9" />
-
+<table>
+<tr>
+<td align="center"><b>画像卡片 DIY</b></td>
+</tr>
+<tr>
+<td><img width="1091" height="1061" alt="画像卡片DIY" src="https://github.com/user-attachments/assets/e8033139-d5d5-4160-aff1-dcce2a5cf6a9" /></td>
+</tr>
+</table>
 ---
 
 ## 我为什么做这个？
