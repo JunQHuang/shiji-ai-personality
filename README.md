@@ -43,19 +43,12 @@
 <tr>
 <td align="center"><b>一对一深度答疑</b></td>
 <td align="center"><b>技术底稿 · 排盘数据</b></td>
-</tr>
-<tr>
-<td><img width="400" alt="答疑" src="https://github.com/user-attachments/assets/831ce038-c0a0-4f11-85b8-04ba8cd3afe4" /></td>
-<td><img width="400" alt="底稿" src="https://github.com/user-attachments/assets/676b7940-87b8-44ef-a8a3-9e32546066d5" /></td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td align="center"><b>画像卡片 DIY</b></td>
 </tr>
 <tr>
-<td><img width="1091" height="1061" alt="画像卡片DIY" src="https://github.com/user-attachments/assets/e8033139-d5d5-4160-aff1-dcce2a5cf6a9" /></td>
+<td><img width="280" alt="答疑" src="https://github.com/user-attachments/assets/831ce038-c0a0-4f11-85b8-04ba8cd3afe4" /></td>
+<td><img width="280" alt="底稿" src="https://github.com/user-attachments/assets/676b7940-87b8-44ef-a8a3-9e32546066d5" /></td>
+<td><img width="280" alt="画像卡片DIY" src="https://github.com/user-attachments/assets/e8033139-d5d5-4160-aff1-dcce2a5cf6a9" /></td>
 </tr>
 </table>
 ---
