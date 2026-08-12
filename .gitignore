@@ -1,0 +1,34 @@
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.*
+secrets.*
+
+# Private product data and generated artifacts
+data/private/
+reports/
+exports/
+uploads/
+activation-keys/
+*.csv
+*.tsv
+*.db
+*.sqlite*
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
