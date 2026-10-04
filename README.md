@@ -147,5 +147,5 @@ git status --short
 请勿提交 `.env`、激活码、用户导出、报告、数据库连接串、服务器地址或部署日志。
 
 ## 许可证
-
+合作联系dc：submarine_qjh
 [MIT](LICENSE)
