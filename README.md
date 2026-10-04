@@ -8,33 +8,33 @@
 
 <table>
 <tr>
-<td align="center"><b>首页 · 激活码入口</b></td>
-<td align="center"><b>信息填写 · 排盘预览</b></td>
-<td align="center"><b>深度运算中</b></td>
-<td align="center"><b>专属报告 · 六大模块</b></td>
+<td align="center"><b>首页 · 品牌入口</b></td>
+<td align="center"><b>激活码 · 开启探索</b></td>
+<td align="center"><b>探索路径 · 观时序</b></td>
+<td align="center"><b>专属报告 · 深度分析</b></td>
 </tr>
 <tr>
-<td><img width="180" alt="首页" src="https://github.com/user-attachments/assets/465a1a61-bae8-423a-a892-9f309ca3cd6f" /></td>
-<td><img width="180" alt="排盘预览" src="https://github.com/user-attachments/assets/40f4409a-e05e-4f23-aa8d-1979cdf662c9" /></td>
-<td><img width="180" alt="运算中" src="https://github.com/user-attachments/assets/85dca8c7-90f0-4288-8276-e7803ee0dff5" /></td>
-<td><img width="180" alt="报告" src="https://github.com/user-attachments/assets/cb0ecb65-a582-44be-9906-be450c0847d3" /></td>
+<td><img width="180" alt="识己手机首页" src="docs/screenshots/01-home-mobile.png" /></td>
+<td><img width="180" alt="激活码入口" src="docs/screenshots/02-activation-mobile.png" /></td>
+<td><img width="180" alt="识己探索路径" src="docs/screenshots/03-experience-mobile.png" /></td>
+<td><img width="180" alt="深度性格报告" src="docs/screenshots/04-report-mobile.png" /></td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td align="center"><b>一对一深度答疑</b></td>
-<td align="center"><b>技术底稿 · 排盘数据</b></td>
-<td align="center"><b>画像卡片 DIY</b></td>
+<td align="center"><b>完整底稿 · 结构数据</b></td>
+<td align="center"><b>专属命格卡</b></td>
 </tr>
 <tr>
-<td><img width="280" alt="答疑" src="https://github.com/user-attachments/assets/831ce038-c0a0-4f11-85b8-04ba8cd3afe4" /></td>
-<td><img width="280" alt="底稿" src="https://github.com/user-attachments/assets/676b7940-87b8-44ef-a8a3-9e32546066d5" /></td>
-<td><img width="280" alt="画像卡片 DIY" src="https://github.com/user-attachments/assets/e8033139-d5d5-4160-aff1-dcce2a5cf6a9" /></td>
+<td><img width="280" alt="一对一深度答疑" src="docs/screenshots/05-qa-mobile.png" /></td>
+<td><img width="280" alt="完整推导底稿" src="docs/screenshots/06-draft-mobile.png" /></td>
+<td><img width="280" alt="专属命格卡" src="docs/screenshots/07-cards-mobile.png" /></td>
 </tr>
 </table>
 
-截图展示的是原完整产品形态；当前仓库公开代码是从中抽取的隐私优先工程范式。
+截图来自更新后的产品站 [characterdirect.shop](https://characterdirect.shop/)；竖版页面均按手机视口渲染后截取。当前仓库公开代码是从完整产品中抽取的隐私优先工程范式。
 
 ## 大概思路
 
